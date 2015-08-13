@@ -5,7 +5,7 @@
 1. There are a limited number of spots available (25)
 2. There is a limited schedule available (8-18)
 3. We want the maximum fill, within the spots/schedule
-4. There are mainly 2 categories: **fixed** (aprox. 20) and **variable** (as much as possible); **fixed** have a somewhat stable schedule (x times per week, between y and z hours, every -other- week), **variable** have a more flexible schedule (adjustable by the organiser/attendee)
+4. There are mainly 2 categories: **fixed** (aprox. 20) and **variable** (as much as possible); **fixed** have a somewhat stable schedule (x times per week, between y and z hours, odd and/or even weeks), **variable** have a more flexible schedule (adjustable by the organiser/attendee)  
 
 #####Schedule example
 
